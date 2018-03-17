@@ -1,3 +1,5 @@
+This is modified rtt_gazebo package for orocos and gazebo simulator communication so that gazebo robots can be controlled from orocos real time software. This package is tested in ubuntu 16.04, ros kinetic, orocos 2.9, gazebo 9 version. Thank u.
+
 Orocos-RTT / Gazebo Integration
 ===============================
 
